@@ -15,3 +15,8 @@ processed/
 *.xlsx
 .idea/
 .vscode/
+.env.local
+.env.*.local
+*.key
+*.pem
+*.log

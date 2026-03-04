@@ -56,9 +56,14 @@ El Excel generado incluye:
 - **Amount (BTC)**: Cantidad en Bitcoin
 - **BTC Price**: Precio del BTC usado
 - **USD**: Equivalente en USD
-- **Totales**: Sumas automáticas
-- **Hoja Control**: Validación de días del mes
 
 ## Autor
 
-Blockware S.A
+Blackmagenuit
+
+## ⚠️ Seguridad
+
+**IMPORTANTE**: 
+- Nunca compartas archivos `.xlsx` que contengan datos reales
+- No hagas commit de archivos `.env`, `.xlsx` o datos financieros
+- Ver [SECURITY.md](SECURITY.md) para más detalles
